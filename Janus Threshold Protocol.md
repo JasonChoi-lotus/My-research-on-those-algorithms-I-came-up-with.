@@ -36,4 +36,4 @@ These hyper-reactive human signatures serve as an unfilterable, organic indicato
 effectively capturing the micro-signals of impending conflict that orbital reconnaissance and conventional intelligence networks routinely overlook.
 
 
-This program is planned to be embodied by using Python matplotlib as a backend and HTML as a frontend. 
+This program is planned to be embodied by using `Python matplotlib` as a backend and `HTML` as a frontend. 
