@@ -10,6 +10,8 @@ and dual perspectives—who concurrently gazes into both the past and the future
 engineered to synthesize historical baselines and real-time empirical inputs to preemptively forecast and avert systemic kinetic conflicts (war).
 
 
+
+
 ### Algorithmic Horizon
 
 By analyzing the residual friction of past trajectories and calculating the acceleration of current socio-economic indicators, 
@@ -17,6 +19,7 @@ the model projects future geopolitical flashpoints before they breach the thresh
 
 
 
+---
 
 
 
@@ -25,6 +28,7 @@ the model projects future geopolitical flashpoints before they breach the thresh
 The foundational architecture of the Janus Threshold Model is intentionally engineered to decouple from traditional military intelligence outputs—
 such as official defense ministry briefings, state-sponsored propaganda, or superficial troop movements. 
 Because state actors frequently deploy strategic deception and asymmetric maskirovka (military camouflage/feints), institutional data remains structurally compromised.
+
 
 
 Conversely, the Janus Model synthesizes the primal survival instincts and aggregated panic metrics of civilian populations. 
